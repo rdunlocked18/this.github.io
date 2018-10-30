@@ -61,7 +61,7 @@ html, body {
 }
 
 body {
-  background: #16a085;
+  background-image: linear-gradient(to bottom ,#b788f7,#82aef3,#56c5ec,#27dfe5);
   font-family: 'Montserrat', sans-serif;
   color: #fff;
   line-height: 1.3;
