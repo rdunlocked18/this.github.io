@@ -111,6 +111,7 @@ p {
   font-weight: 700;
   line-height: 1;
   color: #fff;
+border-radius: 6px;
   text-decoration: none;
   -webkit-transition: all 0.4s;
      -moz-transition: all 0.4s;
